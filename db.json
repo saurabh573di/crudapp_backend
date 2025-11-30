@@ -9,26 +9,8 @@
       "designation": "Developer",
       "age": "28",
       "dateOfJoining": "2025-10-27"
-    },
-    {
-      "id": "39e8",
-      "username": "sa",
-      "email": "sadf@gmail.com",
-      "password": "1111",
-      "empId": "sa1111",
-      "designation": "hr",
-      "age": "3",
-      "dateOfJoining": "2025-11-21"
-    },
-    {
-      "id": "f436",
-      "username": "jitesh",
-      "email": "j@gmail.com",
-      "password": "1234",
-      "empId": "1111",
-      "designation": "devloper",
-      "age": "21",
-      "dateOfJoining": "2025-11-28"
     }
+    
+    
   ]
 }
